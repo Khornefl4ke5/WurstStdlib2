@@ -3003,7 +3003,7 @@ public class AbilityDefinitionExperienceModgreater extends AbilityDefinition
 		def.setLevelsDataInt("Ixpg", lvls, 1, lc)
 		addTooltipProperty("Experience Gained", lc)
 
-public class AbilityDefinitionAIde extends AbilityDefinition
+public class AbilityDefinitionArmorBonus extends AbilityDefinition
 	construct(int newAbilityId)
 		super(newAbilityId, AbilityIds.itemArmorBonus)
 
